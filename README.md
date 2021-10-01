@@ -15,7 +15,7 @@ original tutorial: https://towardsdatascience.com/selenium-tutorial-scraping-gla
 (youtube: KenJee): https://www.youtube.com/watch?v=GmW4F6MHqqs&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
 (github): https://github.com/wizrox/dsSlryProj/blob/master/glassdoor_scrapper.py
 
-## Web Scraping
+## Overview
 1. Scraped over 1000 job descriptions from glassdoor using python and selenium
 2. Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark.
 3. Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
