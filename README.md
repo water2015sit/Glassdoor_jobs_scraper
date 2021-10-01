@@ -1,10 +1,5 @@
 # Data Scientist Projects
 
-Scraped over 1000 job descriptions from glassdoor using python and selenium
-Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark.
-Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
-
-
 ## Code and Resources Used
 original author: Ömer Sakarya , Oct 15, 2019
 
